@@ -3,7 +3,7 @@
 #### *INTERN ID* : CT12DS3015
 #### *DOMAIN* : DATA SCIENCE
 #### *DURATION* : DECEMBER 15th, 2024 to FEBRUARY 15th, 2025
-#### *MENTOR* :    
+#### *MENTOR* : N.santhosh
 
 ---
 
