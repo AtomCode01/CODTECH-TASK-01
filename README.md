@@ -1,4 +1,9 @@
-
+*NAME* : AMAN KUMAR
+*COMPANY* :  CODTECH IT SOLUTIONS
+*INTERN ID* : CT12DS3015
+*DOMAIN* : DATA SCIENCE
+*DURATION* : DECEMBER 15th, 2024 to FEBRUARY 15th, 2025
+*MENTOR* :    
 
 ---
 
@@ -50,6 +55,3 @@ This project aims to analyze how various factors such as gender, ethnicity, pare
 5. **Parental Education**:
    - Parental education level does not generally correlate with better performance, except for males whose parents have an associate's or master's degree.
 
----
-
-Let me know if you'd like me to refine or add anything further!
